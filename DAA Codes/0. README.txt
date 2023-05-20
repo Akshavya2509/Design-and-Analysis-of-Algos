@@ -1,0 +1,7 @@
+Hello there!! Here i have added all the codes that I have solved in my DAA as a part of my course. I had faced many problems in questions, specially graph m-color was new to me when I found it as a part in Final Lab Evaluation. I couldnt solve then but later realized where I had been wrong. I rectified ALL MY MISTAKES. Hereby uploading the solutions to keep me tracked about the stupid mistakes I made that turned out to be an issue. These have been uploaded on my GitHub as well. U can access them from there as well. I just uploaded my certain codes which I forgot to add earlier.
+
+https://github.com/Akshavya2509/Java
+
+Some codes are submitted in my leetcode profile which i have added here. They can be accessed in my profile.
+
+https://leetcode.com/Akshavya_25/
